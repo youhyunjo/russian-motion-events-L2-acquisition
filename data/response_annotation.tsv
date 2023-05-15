@@ -1,0 +1,644 @@
+freq	ResponseText	ErrorType	ResponseStatus	POS	Normalized	PrefixRu	RootRu	Path	Manner	Direction	Aspect	Tense
+154	-		Empty	-	-	-	-	x	x	x	x	x
+200			Empty	-	-	-	-	x	x	x	x	x
+1	в поезде		Invalid	NOUN	в поезде	-	-	x	x	x	x	x
+1	ё		Invalid	VERB	ё	-	-	x	x	x	x	x
+1	полёт		Invalid	NOUN	полёт	-	-	x	x	x	x	x
+1	резвятся		Invalid	VERB	-	-	-	x	x	x	x	x
+6	ползает		MotionVerb	VERB	ползать		ползать	-	crawl	multi	impf	pres
+4	ползать		MotionVerb	VERB	ползать		ползать	-	crawl	multi	impf	inf
+19	ползают		MotionVerb	VERB	ползать		ползать	-	crawl	multi	impf	pres
+32	ползёт		MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	pres
+1	ползёт к цветку		MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	pres
+2	ползти		MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	inf
+1	ползтизёт	SpellError	MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	pres
+15	ползут		MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	pres
+1	ползут к морю		MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	pres
+1	ползуют	SpellError	MotionVerb	VERB	ползти		ползти	-	crawl	uni	impf	pres
+1	расползаются		MotionVerb	VERB	расползаться	раз	ползать	raz	crawl	-	impf	pres
+49	летает		MotionVerb	VERB	летать		летать	-	fly	multi	impf	pres
+10	летал		MotionVerb	VERB	летать		летать	-	fly	multi	impf	past
+6	летала		MotionVerb	VERB	летать		летать	-	fly	multi	impf	past
+1	летать		MotionVerb	VERB	летать		летать	-	fly	multi	impf	inf
+54	летают		MotionVerb	VERB	летать		летать	-	fly	multi	impf	pres
+1	литал	SpellError	MotionVerb	VERB	летать		летать	-	fly	multi	impf	past
+1	лтает	SpellError	MotionVerb	VERB	летать		летать	-	fly	multi	impf	pres
+1	лете	SpellError	MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+4	летел		MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	past
+13	летет	SpellError	MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+7	лететь		MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	inf
+127	летит		MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+1	летитa		MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+11	летят		MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+1	лечим	SpellError	MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+2	лечит	SpellError	MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+2	лечу		MotionVerb	VERB	лететь		лететь	-	fly	uni	impf	pres
+1	долетает		MotionVerb	VERB	долетать	до	летать	do	fly	-	impf	pres
+1	долетел		MotionVerb	VERB	долететь	до	лететь	do	fly	-	pf	past
+1	долетил	SpellError	MotionVerb	VERB	долететь	до	лететь	do	fly	-	pf	past
+1	полетает		MotionVerb	VERB	полетать	по	летать	po	fly	-	pf	futr
+1	полетал		MotionVerb	VERB	полетать	по	летать	po	fly	-	pf	past
+1	полетать		MotionVerb	VERB	полетать	по	летать	po	fly	-	pf	inf
+5	полетел		MotionVerb	VERB	полететь	по	лететь	po	fly	-	pf	past
+4	полетет	SpellError	MotionVerb	VERB	полететь	по	лететь	po	fly	-	pf	futr
+1	полететь		MotionVerb	VERB	полететь	по	лететь	po	fly	-	pf	inf
+1	полетил	SpellError	MotionVerb	VERB	полететь	по	лететь	po	fly	-	pf	past
+2	полетит		MotionVerb	VERB	полететь	по	лететь	po	fly	-	pf	futr
+20	подлетает		MotionVerb	VERB	подлетать	под	летать	pod	fly	-	impf	pres
+1	подлетать		MotionVerb	VERB	подлетать	под	летать	pod	fly	-	impf	inf
+1	подлетет	SpellError	MotionVerb	VERB	подлететь	под	лететь	pod	fly	-	pf	futr
+1	подлететь		MotionVerb	VERB	подлететь	под	лететь	pod	fly	-	pf	inf
+9	прилетает		MotionVerb	VERB	прилетать	при	летать	pri	fly	-	impf	pres
+1	прилетаёт	SpellError	MotionVerb	VERB	прилетать	при	летать	pri	fly	-	impf	pres
+2	прилетал		MotionVerb	VERB	прилетать	при	летать	pri	fly	-	impf	past
+2	прилетают		MotionVerb	VERB	прилетать	при	летать	pri	fly	-	impf	pres
+24	прилетел		MotionVerb	VERB	прилететь	при	лететь	pri	fly	-	pf	past
+1	прилетет	SpellError	MotionVerb	VERB	прилететь	при	лететь	pri	fly	-	pf	futr
+5	прилететь		MotionVerb	VERB	прилететь	при	лететь	pri	fly	-	pf	inf
+4	прилетил	SpellError	MotionVerb	VERB	прилететь	при	лететь	pri	fly	-	pf	past
+12	прилетит		MotionVerb	VERB	прилететь	при	лететь	pri	fly	-	pf	futr
+1	слетает		MotionVerb	VERB	слетать	с	летать	s	fly	-	impf	pres
+2	слетал		MotionVerb	VERB	слетать	с	летать	s	fly	-	impf	past
+1	слетают		MotionVerb	VERB	слетать	с	летать	s	fly	-	impf	pres
+1	удлетит	SpellError	MotionVerb	VERB	улететь	у	лететь	u	fly	-	impf	pres
+6	улетает		MotionVerb	VERB	улетать	у	летать	u	fly	-	impf	pres
+1	улетают		MotionVerb	VERB	улетать	у	летать	u	fly	-	impf	pres
+7	улетел		MotionVerb	VERB	улететь	у	лететь	u	fly	-	pf	past
+3	улетет	SpellError	MotionVerb	VERB	улететь	у	лететь	u	fly	-	pf	futr
+1	улетёт	SpellError	MotionVerb	VERB	улететь	у	лететь	u	fly	-	pf	futr
+4	улетил	SpellError	MotionVerb	VERB	улететь	у	лететь	u	fly	-	pf	past
+5	улетит		MotionVerb	VERB	улететь	у	лететь	u	fly	-	pf	futr
+11	влетать		MotionVerb	VERB	влетать	в	летать	v	fly	-	impf	inf
+1	влечить	SpellError	MotionVerb	VERB	влететь	в	лететь	v	fly	-	impf	inf
+1	волетать	SpellError	MotionVerb	VERB	влетать	в	летать	v	fly	-	impf	inf
+1	влетет	SpellError	MotionVerb	VERB	влететь	в	лететь	v	fly	-	pf	futr
+23	влететь		MotionVerb	VERB	влететь	в	лететь	v	fly	-	pf	inf
+1	влетит		MotionVerb	VERB	влететь	в	лететь	v	fly	-	pf	futr
+1	влетить	SpellError	MotionVerb	VERB	влететь	в	лететь	v	fly	-	pf	inf
+1	волетет	SpellError	MotionVerb	VERB	влететь	в	лететь	v	fly	-	pf	futr
+3	вылетает		MotionVerb	VERB	вылетать	вы	летать	vy	fly	-	impf	pres
+1	вылетал		MotionVerb	VERB	вылетать	вы	летать	vy	fly	-	impf	past
+14	вылетел		MotionVerb	VERB	вылететь	вы	лететь	vy	fly	-	pf	past
+3	вылететь		MotionVerb	VERB	вылететь	вы	лететь	vy	fly	-	pf	inf
+1	вылетил	SpellError	MotionVerb	VERB	вылететь	вы	лететь	vy	fly	-	pf	past
+2	вылетит		MotionVerb	VERB	вылететь	вы	лететь	vy	fly	-	pf	futr
+1	вылечу		MotionVerb	VERB	вылететь	вы	лететь	vy	fly	-	pf	futr
+18	взлетел		MotionVerb	VERB	взлететь	вз	лететь	vz	fly	-	pf	past
+1	взлететь		MotionVerb	VERB	взлететь	вз	лететь	vz	fly	-	pf	inf
+1	взлетил		MotionVerb	VERB	взлететь	вз	лететь	vz	fly	-	pf	past
+1	взлетит		MotionVerb	VERB	взлететь	вз	лететь	vz	fly	-	pf	futr
+1	взлител	SpellError	MotionVerb	VERB	взлететь	вз	лететь	vz	fly	-	pf	past
+1	залетал		MotionVerb	VERB	залетать	за	летать	za	fly	-	impf	past
+8	залететь		MotionVerb	VERB	залететь	за	лететь	za	fly	-	pf	inf
+1	залетит		MotionVerb	VERB	залететь	за	лететь	za	fly	-	pf	futr
+1	едила	SpellError	MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	past
+3	едит	SpellError	MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+54	ездил		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	past
+1	ездил(а)		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+18	ездила		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	past
+1	Ездила		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	past
+4	ездили		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	past
+1	ездим		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+7	ездит		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+10	ездить		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	inf
+6	ездят		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+2	езжу		MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+1	езъжает	SpellError	MotionVerb	VERB	ездить		ездить	-	ride	multi	impf	pres
+1	будем ехать		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	inf
+1	буду ехать		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	inf
+10	едем		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	Едет		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+164	едет		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	едет в корею		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	едете		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	едёшь	SpellError	MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	едим	SpellError	MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+16	еду		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+49	едут		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	едят	SpellError	MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+1	ехает	SpellError	MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	pres
+5	ехал		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	past
+9	ехать		MotionVerb	VERB	ехать		ехать	-	ride	uni	impf	inf
+4	доедет		MotionVerb	VERB	доехать	до	ехать	do	ride	-	pf	futr
+1	доехали		MotionVerb	VERB	доехать	до	ехать	do	ride	-	pf	past
+1	обезжаем	SpellError	MotionVerb	VERB	обезжать	об	езжать	ob	ride	-	impf	pres
+1	объездил		MotionVerb	VERB	объезжать	об	езжать	ob	ride	-	impf	past
+1	объезжать		MotionVerb	VERB	объезжать	об	езжать	ob	ride	-	impf	inf
+4	объехать		MotionVerb	VERB	объехать	об	ехать	ob	ride	-	pf	inf
+1	переезжает		MotionVerb	VERB	переезжать	пере	езжать	pere	ride	-	impf	pres
+1	переедет		MotionVerb	VERB	переехать	пере	ехать	pere	ride	-	pf	futr
+5	поедем		MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	futr
+4	поедет		MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	futr
+1	поедут		MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	futr
+3	поездил		MotionVerb	VERB	поездить	по	ездить	po	ride	-	pf	past
+1	поехает	SpellError	MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	futr
+13	поехал		MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	past
+2	поехала		MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	past
+2	поехать		MotionVerb	VERB	поехать	по	ехать	po	ride	-	pf	inf
+1	подездит		MotionVerb	VERB	подъезжать	под	езжать	pod	ride	-	impf	pres
+3	подезжает	SpellError	MotionVerb	VERB	подезжать	под	езжать	pod	ride	-	impf	pres
+1	подъезжаем		MotionVerb	VERB	подъезжать	под	езжать	pod	ride	-	impf	pres
+7	подъезжает		MotionVerb	VERB	подъезжать	под	езжать	pod	ride	-	impf	pres
+1	мы подъехали к МГУ		MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	futr
+1	подедет		MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	futr
+2	подехал		MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	past
+1	подоедет	SpellError	MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	futr
+1	подоехала	SpellError	MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	past
+2	подъедет		MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	futr
+3	подъехали		MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	past
+1	подъехать		MotionVerb	VERB	подъехать	под	ехать	pod	ride	-	pf	inf
+1	приездет	SpellError	MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	past
+1	приездил		MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	past
+1	приездит		MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	pres
+1	приездят		MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	pres
+2	приезжаем		MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	pres
+1	приезжали		MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	past
+1	приезжают		MotionVerb	VERB	приезжать	при	езжать	pri	ride	-	impf	pres
+10	приедет		MotionVerb	VERB	приехать	при	ехать	pri	ride	-	pf	futr
+5	приедут		MotionVerb	VERB	приехать	при	ехать	pri	ride	-	pf	futr
+15	приехал		MotionVerb	VERB	приехать	при	ехать	pri	ride	-	pf	past
+1	приехала		MotionVerb	VERB	приехать	при	ехать	pri	ride	-	pf	past
+14	приехали		MotionVerb	VERB	приехать	при	ехать	pri	ride	-	pf	past
+2	приехать		MotionVerb	VERB	приехать	при	ехать	pri	ride	-	pf	inf
+1	проездит		MotionVerb	VERB	прoезжать	про	езжать	pro	ride	-	impf	pres
+1	проездить	SpellError	MotionVerb	VERB	проезжать	про	езжать	pro	ride	-	impf	inf
+1	проезжаем		MotionVerb	VERB	проезжать	про	езжать	pro	ride	-	impf	pres
+1	проезжает		MotionVerb	VERB	проезжать	про	езжать	pro	ride	-	impf	pres
+2	проедем		MotionVerb	VERB	проехать	про	ехать	pro	ride	-	pf	futr
+2	проедет		MotionVerb	VERB	проехать	про	ехать	pro	ride	-	pf	futr
+1	проедут		MotionVerb	VERB	проехать	про	ехать	pro	ride	-	pf	futr
+1	седет	SpellError	MotionVerb	VERB	съехать	с	ехать	s	ride	-	pf	futr
+1	сездил	SpellError	MotionVerb	VERB	съездить	с	ездить	s	ride	-	pf	past
+3	съездил		MotionVerb	VERB	съездить	с	ездить	s	ride	-	pf	past
+1	съездить		MotionVerb	VERB	съездить	с	ездить	s	ride	-	pf	inf
+3	уедет		MotionVerb	VERB	уехать	у	ехать	u	ride	-	pf	futr
+8	уехал		MotionVerb	VERB	уехать	у	ехать	u	ride	-	pf	past
+1	уехали		MotionVerb	VERB	уехать	у	ехать	u	ride	-	pf	past
+1	воежзал	SpellError	MotionVerb	VERB	въезжать	в	езжать	v	ride	-	impf	past
+1	воездет	SpellError	MotionVerb	VERB	въезжать	в	езжать	v	ride	-	impf	past
+1	въежает	SpellError	MotionVerb	VERB	въезжать	в	езжать	v	ride	-	impf	pres
+1	въезжаем		MotionVerb	VERB	въезжать	в	езжать	v	ride	-	impf	pres
+12	въезжает		MotionVerb	VERB	въезжать	в	езжать	v	ride	-	impf	pres
+1	ведим	SpellError	MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	futr
+1	везду	SpellError	MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	futr
+1	вехать	SpellError	MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	inf
+2	воедет	SpellError	MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	futr
+1	воехал	SpellError	MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	past
+1	воехать	SpellError	MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	inf
+2	въедет		MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	futr
+2	въехал		MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	past
+3	въехала		MotionVerb	VERB	въехать	в	ехать	v	ride	-	pf	past
+2	выедет		MotionVerb	VERB	выехать	вы	ехать	vy	ride	-	pf	futr
+4	заезжает		MotionVerb	VERB	заезжать	за	езжать	za	ride	-	impf	pres
+2	заедем		MotionVerb	VERB	заехать	за	ехать	za	ride	-	pf	futr
+1	заехала		MotionVerb	VERB	заехать	за	ехать	za	ride	-	pf	past
+1	бегаем		MotionVerb	VERB	бегать		бегать	-	run	multi	impf	pres
+29	бегает		MotionVerb	VERB	бегать		бегать	-	run	multi	impf	pres
+1	бегать		MotionVerb	VERB	бегать		бегать	-	run	multi	impf	inf
+59	бегают		MotionVerb	VERB	бегать		бегать	-	run	multi	impf	pres
+1	ьегают	SpellError	MotionVerb	VERB	бегать		бегать	-	run	multi	impf	pres
+59	бегут		MotionVerb	VERB	бежать		бежать	-	run	uni	impf	pres
+1	бежали		MotionVerb	VERB	бежать		бежать	-	run	uni	impf	past
+7	бежат	SpellError	MotionVerb	VERB	бежать		бежать	-	run	uni	impf	pres
+3	бежать		MotionVerb	VERB	бежать		бежать	-	run	uni	impf	inf
+2	бежают	SpellError	MotionVerb	VERB	бежать		бежать	-	run	uni	impf	pres
+1	бежет	SpellError	MotionVerb	VERB	бежать		бежать	-	run	uni	impf	pres
+48	бежит		MotionVerb	VERB	бежать		бежать	-	run	uni	impf	pres
+1	добежает	SpellError	MotionVerb	VERB	добежать	до	бежать	do	run	-	pf	futr
+2	добежал		MotionVerb	VERB	добежать	до	бежать	do	run	-	pf	past
+1	добежал до финиша первым		MotionVerb	VERB	добежать	до	бежать	do	run	-	pf	pres
+1	добежат	SpellError	MotionVerb	VERB	добежать	до	бежать	do	run	-	pf	futr
+2	набежать		MotionVerb	VERB	набежать	на	бежать	na	run	-	pf	inf
+1	побегают		MotionVerb	VERB	побегать	по	бегать	po	run	-	impf	pres
+1	побежал		MotionVerb	VERB	побежать	по	бежать	po	run	-	pf	past
+1	побежала		MotionVerb	VERB	побежать	по	бежать	po	run	-	pf	past
+3	побежали		MotionVerb	VERB	побежать	по	бежать	po	run	-	pf	past
+1	побежет	SpellError	MotionVerb	VERB	побежать	по	бежать	po	run	-	pf	futr
+19	подбегает		MotionVerb	VERB	подбегать	под	бегать	pod	run	-	impf	pres
+2	подбегать		MotionVerb	VERB	подбегать	под	бегать	pod	run	-	impf	inf
+3	подбежает	SpellError	MotionVerb	VERB	подбежать	под	бежать	pod	run	-	pf	futr
+3	подбежал		MotionVerb	VERB	подбежать	под	бежать	pod	run	-	pf	past
+1	подбежала		MotionVerb	VERB	подбежать	под	бежать	pod	run	-	pf	past
+5	подбежит		MotionVerb	VERB	подбежать	под	бежать	pod	run	-	pf	futr
+5	прибегает		MotionVerb	VERB	прибегать	при	бегать	pri	run	-	impf	pres
+4	прибегал		MotionVerb	VERB	прибегать	при	бегать	pri	run	-	impf	past
+1	прибегают		MotionVerb	VERB	прибегать	при	бегать	pri	run	-	impf	pres
+17	прибежал		MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	past
+1	прибежала		MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	past
+1	прибежат	SpellError	MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	futr
+3	прибежать		MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	inf
+1	прибежают	SpellError	MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	futr
+1	прибежет		MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	futr
+5	прибежит		MotionVerb	VERB	прибежать	при	бежать	pri	run	-	pf	futr
+1	пробежит		MotionVerb	VERB	пробежать	про	бежать	pro	run	-	pf	futr
+2	разбегаются		MotionVerb	VERB	разбегаться	раз	бегать	raz	run	-	impf	pres
+1	убегают		MotionVerb	VERB	убегать	у	бегать	u	run	-	impf	pres
+1	убегут		MotionVerb	VERB	убежать	у	бежать	u	run	-	pf	futr
+1	вбегает		MotionVerb	VERB	вбегать	в	бегать	v	run	-	impf	pres
+1	вбегать		MotionVerb	VERB	вбегать	в	бегать	v	run	-	impf	inf
+7	вбегают		MotionVerb	VERB	вбегать	в	бегать	v	run	-	impf	pres
+1	въбегают	SpellError	MotionVerb	VERB	въбегать	в	бегать	v	run	-	impf	pres
+2	вбегут		MotionVerb	VERB	вбежать	в	бежать	v	run	-	pf	futr
+1	вбежает	SpellError	MotionVerb	VERB	вбежать	в	бежать	v	run	-	pf	futr
+2	вбежали		MotionVerb	VERB	вбежать	в	бежать	v	run	-	pf	past
+1	вбежают	SpellError	MotionVerb	VERB	вбежать	в	бежать	v	run	-	pf	futr
+1	вбежит		MotionVerb	VERB	вбежать	в	бежать	v	run	-	pf	futr
+1	выбежали		MotionVerb	VERB	выбежать	вы	бежать	vy	run	-	pf	past
+2	забегают		MotionVerb	VERB	забегать	за	бегать	za	run	-	impf	pres
+1	забежали		MotionVerb	VERB	забежать	за	бежать	za	run	-	pf	past
+16	плавает		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+1	плавается	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+1	плавал		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	past
+2	плават		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+35	плавать		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	inf
+1	плавать на корабле		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+2	плаваю		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+115	плавают		MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+1	плавет	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+3	плывает	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+2	плывать	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	inf
+2	плываю	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+7	плывают	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+1	пывает	SpellError	MotionVerb	VERB	плавать		плавать	-	swim	multi	impf	pres
+56	плывёт		MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+40	плыву		MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+53	плывут		MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+1	плыла		MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	past
+1	плыну	SpellError	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+3	плыт	SpellError	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+13	плыть		MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	inf
+1	плычу	SpellError	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+1	пыл	SpellError	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	past
+1	пыла	Error	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	past
+1	пылвут	SpellError	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+1	пыли	SpellError	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	pres
+1	пыть	Error	MotionVerb	VERB	плыть		плыть	-	swim	uni	impf	inf
+1	доплывёт		MotionVerb	VERB	доплыть	до	плыть	do	swim	-	pf	futr
+1	доплыли		MotionVerb	VERB	доплыть	до	плыть	do	swim	-	pf	past
+1	наплавает		MotionVerb	VERB	наплавать	на	плавать	na	swim	-	pf	futr
+1	наплавать		MotionVerb	VERB	наплавать	на	плавать	na	swim	-	pf	inf
+1	наплаваю		MotionVerb	VERB	наплавать	на	плавать	na	swim	-	pf	futr
+1	отплывает		MotionVerb	VERB	отплывать	от	плывать	ot	swim	-	impf	pres
+1	переплыть		MotionVerb	VERB	переплыть	пере	плыть	pere	swim	-	pf	inf
+1	поплавают		MotionVerb	VERB	поплывать	по	плывать	po	swim	-	impf	pres
+1	поплывает	SpellError	MotionVerb	VERB	поплывать	по	плывать	po	swim	-	impf	pres
+1	поплывёт		MotionVerb	VERB	поплыть	по	плыть	po	swim	-	pf	futr
+1	поплыли		MotionVerb	VERB	поплыть	по	плыть	po	swim	-	pf	past
+1	подоплавал	SpellError	MotionVerb	VERB	подплывать	под	плывать	pod	swim	-	impf	past
+10	подплавает	SpellError	MotionVerb	VERB	подплывать	под	плывать	pod	swim	-	impf	pres
+37	подплывает		MotionVerb	VERB	подплывать	под	плывать	pod	swim	-	impf	pres
+1	подплывал		MotionVerb	VERB	подплывать	под	плывать	pod	swim	-	impf	past
+2	подплывать		MotionVerb	VERB	подплывать	под	плывать	pod	swim	-	impf	inf
+1	подплывают		MotionVerb	VERB	подплывать	под	плывать	pod	swim	-	impf	pres
+4	подплывёт		MotionVerb	VERB	подплыть	под	плыть	pod	swim	-	pf	futr
+6	подплыл		MotionVerb	VERB	подплыть	под	плыть	pod	swim	-	pf	past
+1	подплыла		MotionVerb	VERB	подплыть	под	плыть	pod	swim	-	pf	past
+8	подплыли		MotionVerb	VERB	подплыть	под	плыть	pod	swim	-	pf	past
+4	подплыть		MotionVerb	VERB	подплыть	под	плыть	pod	swim	-	pf	inf
+1	подпыла	SpellError	MotionVerb	VERB	подплыть	под	плыть	pod	swim	-	pf	past
+5	приплавает	SpellError	MotionVerb	VERB	приплывать	при	плывать	pri	swim	-	impf	pres
+1	приплавать	SpellError	MotionVerb	VERB	приплывать	при	плывать	pri	swim	-	impf	inf
+1	приплевает	SpellError	MotionVerb	VERB	приплывать	при	плывать	pri	swim	-	impf	pres
+2	приплывает		MotionVerb	VERB	приплывать	при	плывать	pri	swim	-	impf	pres
+4	приплывёт		MotionVerb	VERB	приплыть	при	плыть	pri	swim	-	pf	futr
+4	приплыл		MotionVerb	VERB	приплыть	при	плыть	pri	swim	-	pf	past
+1	приплыла		MotionVerb	VERB	приплыть	при	плыть	pri	swim	-	pf	past
+7	приплыли		MotionVerb	VERB	приплыть	при	плыть	pri	swim	-	pf	past
+1	приплыть		MotionVerb	VERB	приплыть	при	плыть	pri	swim	-	pf	inf
+1	припыл	SpellError	MotionVerb	VERB	приплыть	при	плыть	pri	swim	-	pf	past
+1	проплавает	SpellError	MotionVerb	VERB	проплывать	про	плывать	pro	swim	-	impf	pres
+1	проплыл		MotionVerb	VERB	проплыть	про	плыть	pro	swim	-	pf	past
+2	проплыть		MotionVerb	VERB	проплыть	про	плыть	pro	swim	-	pf	inf
+1	воплывал	SpellError	MotionVerb	VERB	вплывать	в	плывать	v	swim	-	impf	past
+3	вплавает	SpellError	MotionVerb	VERB	вплывать	в	плывать	v	swim	-	impf	pres
+10	вплывает		MotionVerb	VERB	вплывать	в	плывать	v	swim	-	impf	pres
+1	вплывать	SpellError	MotionVerb	VERB	вплывать	в	плывать	v	swim	-	impf	inf
+1	вплыла		MotionVerb	VERB	вплыть	в	плыть	v	swim	-	pf	past
+1	вплыть		MotionVerb	VERB	вплыть	в	плыть	v	swim	-	pf	inf
+2	заплывает		MotionVerb	VERB	заплывать	за	плывать	za	swim	-	impf	pres
+6	заплыла		MotionVerb	VERB	заплыть	за	плыть	za	swim	-	pf	past
+1	не ходить в		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	pres
+54	ходил		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	past
+5	ходили		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	past
+21	ходит		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	pres
+4	ходить		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	inf
+4	ходут	SpellError	MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	pres
+29	ходят		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	pres
+1	хожу		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	pres
+1	холил		MotionVerb	VERB	ходить		ходить	-	walk	multi	impf	past
+1	вперёд идите		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+2	идём		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+3	идет		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+128	идёт		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	идёт к мне		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	идёте		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	идётк	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+3	иди		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	идим	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+25	идите		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+3	идите прямо		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	идй	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+8	идти		MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+3	иду		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+86	идут		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+2	идут на море		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	идут по дороге		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+6	йдёт	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+3	йдти	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+4	йдут	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+2	йдят	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	йти	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+1	нe итди	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	не идти		MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+1	не идут		MotionVerb	VERB	идти		идти	-	walk	uni	impf	pres
+1	не йдти	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+1	прямо йдти	SpellError	MotionVerb	VERB	идти		идти	-	walk	uni	impf	inf
+7	шёл		MotionVerb	VERB	идти		идти	-	walk	uni	impf	past
+2	шли		MotionVerb	VERB	идти		идти	-	walk	uni	impf	past
+1	доходит		MotionVerb	VERB	доходить	до	ходить	do	walk	-	impf	pres
+4	доидёт	SpellError	MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	futr
+1	доидёт здесь	SpellError	MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	futr
+1	доидут	SpellError	MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	futr
+1	дойдет	SpellError	MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	futr
+2	дойдёт		MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	futr
+1	дойти		MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	inf
+1	дошёл		MotionVerb	VERB	дойти	до	идти	do	walk	-	pf	past
+1	обходим		MotionVerb	VERB	обходить	об	ходить	ob	walk	-	impf	pres
+1	обходит		MotionVerb	VERB	обходить	об	ходить	ob	walk	-	impf	pres
+7	обходить		MotionVerb	VERB	обходить	об	ходить	ob	walk	-	impf	inf
+1	обоидти	SpellError	MotionVerb	VERB	обойти	об	идти	ob	walk	-	pf	inf
+1	обоидть	SpellError	MotionVerb	VERB	обойти	об	идти	ob	walk	-	pf	inf
+39	обойти		MotionVerb	VERB	обойти	об	идти	ob	walk	-	pf	inf
+1	отходила		MotionVerb	VERB	отходить	от	ходить	ot	walk	-	impf	past
+28	отходит		MotionVerb	VERB	отходить	от	ходить	ot	walk	-	impf	pres
+1	отоидёт	SpellError	MotionVerb	VERB	отойти	от	идти	ot	walk	-	pf	futr
+1	отоидти	SpellError	MotionVerb	VERB	обойти	от	идти	ot	walk	-	pf	inf
+1	отойдет		MotionVerb	VERB	отойти	от	идти	ot	walk	-	pf	futr
+2	отойдёт		MotionVerb	VERB	отойти	от	идти	ot	walk	-	pf	futr
+2	отойти		MotionVerb	VERB	отойти	от	идти	ot	walk	-	pf	inf
+13	отошла		MotionVerb	VERB	отойти	от	идти	ot	walk	-	pf	past
+1	переходит		MotionVerb	VERB	переходить	пере	ходить	pere	walk	-	impf	pres
+3	переходить		MotionVerb	VERB	переходить	пере	ходить	pere	walk	-	impf	inf
+35	переходят		MotionVerb	VERB	переходить	пере	ходить	pere	walk	-	impf	pres
+1	перехожу		MotionVerb	VERB	переходить	пере	ходить	pere	walk	-	impf	pres
+1	переидть	SpellError	MotionVerb	VERB	перейти	пере	идти	pere	walk	-	pf	inf
+1	переидут	SpellError	MotionVerb	VERB	перейти	пере	идти	pere	walk	-	pf	futr
+6	перейдут		MotionVerb	VERB	перейти	пере	идти	pere	walk	-	pf	futr
+3	перейти		MotionVerb	VERB	перейти	пере	идти	pere	walk	-	pf	inf
+7	перешли		MotionVerb	VERB	перейти	пере	идти	pere	walk	-	pf	past
+1	перешли по мосту через реку		MotionVerb	VERB	перейти	пере	идти	pere	walk	-	pf	futr
+1	походил		MotionVerb	VERB	походить	по	ходить	po	walk	-	impf	past
+1	походит		MotionVerb	VERB	походить	по	ходить	po	walk	-	impf	pres
+2	поидите	SpellError	MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	поиут	SpellError	MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+2	пойдём		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	пойдёт		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	пойдете		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	пойдёшь		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+3	пойдите		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	пойду		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	пойдут		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	futr
+1	пойти		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	inf
+9	пошёл		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	past
+3	пошли		MotionVerb	VERB	пойти	по	идти	po	walk	-	pf	past
+1	подохожу	SpellError	MotionVerb	VERB	подходить	под	ходить	pod	walk	-	impf	pres
+1	подходет	SpellError	MotionVerb	VERB	подходить	под	ходить	pod	walk	-	impf	pres
+43	подходит		MotionVerb	VERB	подходить	под	ходить	pod	walk	-	impf	pres
+3	подходят		MotionVerb	VERB	подходить	под	ходить	pod	walk	-	impf	pres
+1	подидёт	SpellError	MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	futr
+1	подоидёт	SpellError	MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	futr
+5	подойдёт		MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	futr
+3	подойти		MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	inf
+3	подошёл		MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	past
+1	подошла		MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	past
+2	подошли		MotionVerb	VERB	подойти	под	идти	pod	walk	-	pf	past
+2	приходет		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	pres
+1	приходил		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	past
+3	приходили		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	past
+6	приходит		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	pres
+1	приходить		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	inf
+5	приходят		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	pres
+1	прихожу		MotionVerb	VERB	приходить	при	ходить	pri	walk	-	impf	pres
+1	придём		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	придет		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+12	придёт		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+2	придут		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	придят	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	приидёт	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	приидут	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	приитй	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	inf
+3	прийдёт	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	прийдут	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+3	прийти		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	inf
+25	пришёл		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	past
+1	пришёли	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	past
+51	пришли		MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	past
+1	прйдете	SpellError	MotionVerb	VERB	прийти	при	идти	pri	walk	-	pf	futr
+1	Проходи		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	pres
+1	проходи		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	pres
+1	проходим		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	pres
+2	проходит		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	pres
+5	проходите		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	pres
+1	проходить		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	inf
+6	проходят		MotionVerb	VERB	проходить	про	ходить	pro	walk	-	impf	pres
+2	проидёт	SpellError	MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	futr
+2	проидите	SpellError	MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	futr
+2	проидут	SpellError	MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	futr
+2	пройдёт		MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	futr
+8	пройдите		MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	futr
+1	пройдти	SpellError	MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	inf
+3	пройдут		MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	futr
+2	пройти		MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	inf
+2	прошёл		MotionVerb	VERB	пройти	про	идти	pro	walk	-	pf	past
+5	сходил		MotionVerb	VERB	сходить	с	ходить	s	walk	-	impf	past
+1	сходила		MotionVerb	VERB	сходить	с	ходить	s	walk	-	impf	past
+1	сходим		MotionVerb	VERB	сходить	с	ходить	s	walk	-	impf	pres
+1	сходить		MotionVerb	VERB	сходить	с	ходить	s	walk	-	impf	inf
+2	сходят		MotionVerb	VERB	сходить	с	ходить	s	walk	-	impf	pres
+1	сходятся		MotionVerb	VERB	сходиться	с	ходить	s	walk	-	impf	pres
+1	сидут	SpellError	MotionVerb	VERB	сойти	с	идти	s	walk	-	pf	futr
+1	сойдем		MotionVerb	VERB	сойти	с	идти	s	walk	-	pf	futr
+1	сойдёт		MotionVerb	VERB	сойти	с	идти	s	walk	-	pf	futr
+1	сойдут		MotionVerb	VERB	сойти	с	идти	s	walk	-	pf	futr
+1	сошла		MotionVerb	VERB	сойти	с	идти	s	walk	-	pf	past
+1	сошли		MotionVerb	VERB	сойти	с	идти	s	walk	-	pf	past
+1	уходит		MotionVerb	VERB	уходить	у	ходить	u	walk	-	impf	pres
+1	уходят		MotionVerb	VERB	уходить	у	ходить	u	walk	-	impf	pres
+1	уходят в море		MotionVerb	VERB	уходить	у	ходить	u	walk	-	impf	pres
+1	уидёт	SpellError	MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	futr
+1	уидут	SpellError	MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	futr
+1	уидят	SpellError	MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	futr
+1	уитй	SpellError	MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	inf
+2	уйдёт		MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	futr
+1	уйдти	SpellError	MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	inf
+1	уйти		MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	inf
+49	ушёл		MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	past
+1	ушла		MotionVerb	VERB	уйти	у	идти	u	walk	-	pf	past
+1	воходят	SpellError	MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	pres
+1	входил		MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	past
+3	входим		MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	pres
+52	входит		MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	pres
+2	входить		MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	inf
+9	входят		MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	pres
+1	въходит	SpellError	MotionVerb	VERB	входить	в	ходить	v	walk	-	impf	pres
+1	видёт	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+1	видут	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+3	воидёт	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+2	воидут	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+1	воитй	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	inf
+3	войдет		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+16	войдёт		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+1	войди		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+2	войдут		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	futr
+14	войти		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	inf
+5	вошёл		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	past
+11	вошла		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	past
+5	вошли		MotionVerb	VERB	войти	в	идти	v	walk	-	pf	past
+1	вшёл	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	past
+1	въйти	SpellError	MotionVerb	VERB	войти	в	идти	v	walk	-	pf	inf
+1	вйдут	SpellError	MotionVerb	VERB	войти	во	йти	v	walk	uni	impf	pres
+2	выходит		MotionVerb	VERB	выходить	вы	ходить	vy	walk	-	impf	pres
+3	выходить		MotionVerb	VERB	выходить	вы	ходить	vy	walk	-	impf	inf
+1	выходть		MotionVerb	VERB	выходить	вы	ходить	vy	walk	-	impf	inf
+48	выходят		MotionVerb	VERB	выходить	вы	ходить	vy	walk	-	impf	pres
+1	выидёт	SpellError	MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	futr
+3	выидут	SpellError	MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	futr
+4	выйдёт		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	futr
+2	выйдти	SpellError	MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	inf
+1	выйдть	SpellError	MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	inf
+11	выйдут		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	futr
+7	выйти		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	inf
+6	вышел		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	past
+3	вышёл		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	past
+2	вышла		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	past
+11	вышли		MotionVerb	VERB	выйти	вы	идти	vy	walk	-	pf	past
+3	всходит	SpellError	MotionVerb	VERB	всходить	вс	ходить	vz	walk	-	impf	pres
+1	всхожу	SpellError	MotionVerb	VERB	всходить	вс	ходить	vz	walk	-	impf	pres
+7	заходил		MotionVerb	VERB	заходить	за	ходить	za	walk	-	impf	past
+8	заходит		MotionVerb	VERB	заходить	за	ходить	za	walk	-	impf	pres
+1	заходят		MotionVerb	VERB	заходить	за	ходить	za	walk	-	impf	pres
+2	зайдём		MotionVerb	VERB	зайти	за	идти	za	walk	-	pf	futr
+3	зайдёт		MotionVerb	VERB	зайти	за	идти	za	walk	-	pf	futr
+36	зашёл		MotionVerb	VERB	зайти	за	идти	za	walk	-	pf	past
+1	зашла		MotionVerb	VERB	зайти	за	идти	za	walk	-	pf	past
+2	зашли		MotionVerb	VERB	зайти	за	идти	za	walk	-	pf	past
+8	был		OtherVerb	VERB	быть		быть	x	x	x	impf	past
+1	былa		OtherVerb	VERB	быть		быть	x	x	x	impf	pres
+2	взбирается		OtherVerb	VERB	взбираться		взбираться	x	x	x	impf	pres
+4	восходит		OtherVerb	VERB	восходить		восходить	x	x	x	impf	pres
+1	восходить		OtherVerb	VERB	восходить		ходить	x	x	x	impf	inf
+1	выступает		OtherVerb	VERB	выступать		выступать	x	x	x	impf	pres
+1	гуляет		OtherVerb	VERB	гулять		гулять	x	x	x	impf	pres
+2	гуляли		OtherVerb	VERB	гулять		гулять	x	x	x	impf	past
+4	гулят		OtherVerb	VERB	гулят		гулят	x	x	x	impf	pres
+14	гуляют		OtherVerb	VERB	гулять		гулять	x	x	x	impf	pres
+1	движутся		OtherVerb	VERB	двигаться		двигаться	x	x	x	impf	pres
+1	достигает		OtherVerb	VERB	достигать		достигать	x	x	x	impf	pres
+3	играют		OtherVerb	VERB	играть		играть	x	x	x	impf	pres
+1	каталась		OtherVerb	VERB	кататься		кататься	x	x	x	impf	past
+1	катаюсь		OtherVerb	VERB	кататься		кататься	x	x	x	impf	pres
+1	лежат		OtherVerb	VERB	лежать		лежать	x	x	x	impf	pres
+1	лежают		OtherVerb	VERB	лежать		лежать	x	x	x	impf	pres
+2	лезает		OtherVerb	VERB	лезать		лезать	x	x	x	impf	pres
+1	лезают		OtherVerb	VERB	лезать		лезать	x	x	x	impf	pres
+2	мчится		OtherVerb	VERB	мчаться		мчаться	x	x	x	impf	pres
+4	находится		OtherVerb	VERB	находиться		находиться	x	x	x	impf	pres
+2	находиться		OtherVerb	VERB	находиться		находиться	x	x	x	impf	pres
+1	опускают		OtherVerb	VERB	опускать		опускать	x	x	x	impf	pres
+1	оставлять		OtherVerb	VERB	оставлять		оставлять	x	x	x	impf	inf
+1	остается		OtherVerb	VERB	оставаться		оставаться	x	x	x	impf	pres
+1	останавливаеться	SpellError	OtherVerb	VERB	останавливаться		останавливаться	x	x	x	impf	pres
+1	отдыхаю		OtherVerb	VERB	отдыхать		отдыхать	x	x	x	impf	pres
+1	отдыхают		OtherVerb	VERB	отдыхать		отдыхать	x	x	x	impf	pres
+1	отправляется		OtherVerb	VERB	отправляться		отправляться	x	x	x	impf	pres
+1	отправляюсь		OtherVerb	VERB	отправляться		отправляться	x	x	x	impf	pres
+2	отступает		OtherVerb	VERB	отступать		отступать	x	x	x	impf	pres
+1	парит		OtherVerb	VERB	парить		парить	x	x	x	impf	pres
+1	пересекает реку		OtherVerb	VERB	пересекать		пересекать	x	x	x	impf	pres
+1	пересекают		OtherVerb	VERB	пересекать		пересекать	x	x	x	impf	pres
+1	плачет		OtherVerb	VERB	плакать		плакать	x	x	x	impf	pres
+1	поворачиваться		OtherVerb	VERB	поворачиваться		поворачиваться	x	x	x	impf	pres
+2	поднимает		OtherVerb	VERB	поднимать		поднимать	x	x	x	impf	pres
+16	поднимается		OtherVerb	VERB	подниматься		подниматься	x	x	x	impf	pres
+1	поднимал		OtherVerb	VERB	поднимать		поднимать	x	x	x	impf	past
+1	поднимаюсь		OtherVerb	VERB	подниматься		подниматься	x	x	x	impf	pres
+1	поднимают		OtherVerb	VERB	поднимать		поднимать	x	x	x	impf	pres
+10	приближается		OtherVerb	VERB	приближаться		приближаться	x	x	x	impf	pres
+1	приближаются		OtherVerb	VERB	приближаться		приближаться	x	x	x	impf	pres
+1	приближающую		OtherVerb	VERB	приближать		приближать	x	x	x	impf	pres
+1	приземлел	SpellError	OtherVerb	VERB	приземлиться		приземлиться	x	x	x	impf	past
+1	приземляется		OtherVerb	VERB	приземляться		приземляться	x	x	x	impf	pres
+1	причаливает		OtherVerb	VERB	причаливать		причаливать	x	x	x	impf	pres
+1	прогонять		OtherVerb	VERB	прогонять		прогонять	x	x	x	impf	inf
+1	прогуливаться		OtherVerb	VERB	прогуливаться		прогуливаться	x	x	x	impf	pres
+1	прыгает		OtherVerb	VERB	прыгать		прыгать	x	x	x	impf	pres
+3	путешествовал		OtherVerb	VERB	путешествовать		путешествовать	x	x	x	impf	past
+1	путешествовала		OtherVerb	VERB	путешествовать		путешествовать	x	x	x	impf	past
+6	путешествовать		OtherVerb	VERB	путешествовать		путешествовать	x	x	x	impf	inf
+1	путешествую		OtherVerb	VERB	путешествовать		путешествовать	x	x	x	impf	pres
+1	путишествовать		OtherVerb	VERB	путишествовать		путишествовать	x	x	x	impf	inf
+2	пытает		OtherVerb	VERB	пытать		пытать	x	x	x	impf	pres
+1	пытается		OtherVerb	VERB	пытаться		пытаться	x	x	x	impf	pres
+4	пытают		OtherVerb	VERB	пытать		пытать	x	x	x	impf	pres
+1	следовать		OtherVerb	VERB	следовать		следовать	x	x	x	impf	inf
+1	собираюсь		OtherVerb	VERB	собираться		собираться	x	x	x	impf	pres
+1	собираются		OtherVerb	VERB	собираться		собираться	x	x	x	impf	pres
+1	спают		OtherVerb	VERB	спать		спать	x	x	x	impf	pres
+2	спит		OtherVerb	VERB	спать		спать	x	x	x	impf	pres
+1	спускается		OtherVerb	VERB	спускаться		спускаться	x	x	x	impf	pres
+1	спускаются		OtherVerb	VERB	спускаться		спускаться	x	x	x	impf	pres
+1	спят		OtherVerb	VERB	спать		спать	x	x	x	impf	pres
+2	стоит		OtherVerb	VERB	стоять		стоять	x	x	x	impf	pres
+1	стоят в пробке		OtherVerb	VERB	стоять		стоять	x	x	x	impf	pres
+1	танцуют		OtherVerb	VERB	танцевать		танцевать	x	x	x	impf	pres
+1	уступал		OtherVerb	VERB	уступать		уступать	x	x	x	impf	past
+1	участвовали		OtherVerb	VERB	участвовать		участвовать	x	x	x	impf	past
+1	учит		OtherVerb	VERB	учить		учить	x	x	x	impf	pres
+1	хотят		OtherVerb	VERB	хотеть		хотеть	x	x	x	impf	pres
+1	взойдет		OtherVerb	VERB	взойти	вз	идти	x	x	x	pf	futr
+1	взойдёт		OtherVerb	VERB	взойти	вз	идти	x	x	x	pf	futr
+1	вернулись		OtherVerb	VERB	вернуться		вернуться	x	x	x	pf	past
+1	вернулься	SpellError	OtherVerb	VERB	вернуться		вернуться	x	x	x	pf	past
+1	вернутся на море		OtherVerb	VERB	вернуться		вернуться	x	x	x	pf	futr
+1	возвратиться		OtherVerb	VERB	возвратиться		возвратиться	x	x	x	pf	futr
+1	возьми такси		OtherVerb	VERB	взять		взять	x	x	x	pf	futr
+1	вступить		OtherVerb	VERB	вступить		вступить	x	x	x	pf	inf
+1	закроются в провке		OtherVerb	VERB	закрыться		закрыться	x	x	x	pf	futr
+1	закрыть		OtherVerb	VERB	закрыть		закрыть	x	x	x	pf	inf
+1	остался		OtherVerb	VERB	остаться		остаться	x	x	x	pf	past
+1	остановимся		OtherVerb	VERB	остановиться		остановиться	x	x	x	pf	futr
+2	остановится		OtherVerb	VERB	остановиться		остановиться	x	x	x	pf	futr
+1	остановятся		OtherVerb	VERB	остановиться		остановиться	x	x	x	pf	futr
+1	остаться		OtherVerb	VERB	остаться		остаться	x	x	x	pf	futr
+1	отложить		OtherVerb	VERB	отложить		отложить	x	x	x	pf	inf
+1	отправимся		OtherVerb	VERB	отправиться		отправиться	x	x	x	pf	futr
+1	отступила		OtherVerb	VERB	отступить		отступить	x	x	x	pf	past
+1	переправятся		OtherVerb	VERB	переправиться		переправиться	x	x	x	pf	futr
+1	посетил		OtherVerb	VERB	посетить		посетить	x	x	x	pf	past
+1	прибудет		OtherVerb	VERB	прибыть		прибыть	x	x	x	pf	futr
+1	прибыл		OtherVerb	VERB	прибыть		прибыть	x	x	x	pf	past
+1	приземлились		OtherVerb	VERB	приземлиться		приземлиться	x	x	x	pf	past
+2	приземлился		OtherVerb	VERB	приземлиться		приземлиться	x	x	x	pf	past
+1	прикоснется		OtherVerb	VERB	прикоснуться		прикоснуться	x	x	x	pf	futr
+1	припарковалась		OtherVerb	VERB	припарковаться		припарковаться	x	x	x	pf	past
+1	причалили		OtherVerb	VERB	причалить		причалить	x	x	x	pf	past
+1	причалит		OtherVerb	VERB	причалить		причалить	x	x	x	pf	futr
+1	прогнуть		OtherVerb	VERB	прогнуть		прогнуть	x	x	x	pf	inf
+1	прогуляют		OtherVerb	VERB	прогулять		прогулять	x	x	x	pf	futr
+1	развернуться		OtherVerb	VERB	развернуться		развернуться	x	x	x	pf	futr
+1	совершил		OtherVerb	VERB	совершить		совершить	x	x	x	pf	past
+1	подводит		OtherVerb	VERB	подводить	под	водить	x	x	x	impf	pres
+5	водит		OtherVerb	VERB	водить		водить	x	x	x	impf	pres
+1	лазут	SpellError	OtherVerb	VERB	лазить		лазить	x	x	x	impf	pres
+1	лазят		OtherVerb	VERB	лазить		лазить	x	x	x	impf	pres
+8	ведёт		OtherVerb	VERB	вести		вести	x	x	x	impf	pres
+11	лезет		OtherVerb	VERB	лезть		лезть	x	x	x	impf	pres
+1	лезет в море		OtherVerb	VERB	лезть		лезть	x	x	x	impf	pres
+1	лезти	SpellError	OtherVerb	VERB	лезть		лезть	x	x	x	impf	inf
+3	лезут		OtherVerb	VERB	лезть		лезть	x	x	x	impf	pres
+2	полезёт	SpellError	OtherVerb	VERB	полезть	по 	лезть	x	x	x	pf	futr
+1	полезти	SpellError	OtherVerb	VERB	полезть	по 	лезть	x	x	x	pf	inf
+1	полезут	SpellError	OtherVerb	VERB	полезть	по 	лезть	x	x	x	pf	futr
+1	приведит	SpellError	OtherVerb	VERB	привести	при	вести	x	x	x	pf	futr
+4	провёл		OtherVerb	VERB	провести	про	вести	x	x	x	pf	past
+1	провела		OtherVerb	VERB	провести	про	вести	x	x	x	pf	past

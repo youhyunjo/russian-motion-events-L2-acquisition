@@ -7,16 +7,16 @@
 
 ## 데이터
 
-- [data/subject.csv](data/subject.csv): 실험 참여자 정보
-- [data/item.csv](data/item.csv): 실험 문항 정보
-- [data/response.csv](data/response.csv): 응답 정보
-- [data/response_annotation.csv](data/response_annotation.csv): 응답 주석
-- [data/sir_wide.csv](data/sir_wide.csv): subject-item-response 통합 파일 (문항별)
-- [data/sir_long.csv](data/sir_long.csv): subject-item-response 통합 파일 (요소별)
+- [data/subject.tsv](data/subject.tsv): 실험 참여자 정보
+- [data/item.tsv](data/item.tsv): 실험 문항 정보
+- [data/response.tsv](data/response.tsv): 응답 정보
+- [data/response_annotation.tsv](data/response_annotation.tsv): 응답 주석
+- [data/sir_wide.tsv](data/sir_wide.tsv): subject-item-response 통합 파일 (문항별)
+- [data/sir_long.tsv](data/sir_long.tsv): subject-item-response 통합 파일 (요소별)
 
 ### 실험 참여자
 
-- [data/subject.csv](data/subject.csv)
+- [data/subject.tsv](data/subject.tsv)
 - 총 76명의 실험 참여자의 정보
 
 ###### 컬럼:
@@ -255,7 +255,7 @@
 
 ### 실험 문항
 
-- [data/item.csv](data/item.csv)
+- [data/item.tsv](data/item.tsv)
 - 전체 47 문항. 실험 문항은 38개. 채움(filler) 문항 9개. 
 
 ###### 컬럼:
@@ -295,7 +295,7 @@
 
 ### 응답
 
-- [data/response.csv](data/response.csv)
+- [data/response.tsv](data/response.tsv)
 - 총 3572건의 응답 정보. 실험 참여자 76명 ✕ 전체 문항 47개.
 
 ###### 컬럼:
@@ -313,7 +313,7 @@
 
 ### 응답 주석
 
-- [data/response_annotation.csv](data/response_annotation.csv)
+- [data/response_annotation.tsv](data/response_annotation.tsv)
 - 643가지 응답 유형을 분류하고 주석
 
 ###### 컬럼:
@@ -337,7 +337,7 @@
 
 ### 통합 파일 (문항별)
 
-- [data/sir_wide.csv](data/sir_wide.csv)
+- [data/sir_wide.tsv](data/sir_wide.tsv)
 - 참여자-문항-응답(subject-item-response) 통합 데이터.
 - 총 3572건. 실험 참여자 76명의 47개 문항에 대한 응답.
 
@@ -380,7 +380,7 @@
 
 ### 통합 파일 (요소별)
 
-- [data/sir_long.csv](data/sir_long.csv)
+- [data/sir_long.tsv](data/sir_long.tsv)
 - 참여자-문항-응답(subject-item-response) 통합 데이터.
 - 총 14288건. 한 문항에 대한 응답을 양태, 방향, 경로, 상 요소별로 분리한 데이터.
 
